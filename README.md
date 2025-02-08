@@ -4,13 +4,28 @@
 **art9e/art9e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+from Universe.Earth import Human
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class art9e(Human):
+    full_name = "AliReza Naieni"
+    age = 42
+    education = "BS student in Computer Engineering"
+
+    programming_lang = ["python", "Go", "java", "js", "type script"]
+    frameworks = ["Django", "Django REST", "numpy", "express"]
+
+    Favorites = [
+     - 🔭   "computer",
+     - 🌱   "programming",
+     - 👯   "AI",
+     - 🤔   "book", 
+     - 💬   "writting",
+     - ⚡   "music produce",
+    ]
+    Learning = [
+        "Computer Engineering",
+        "Bunjs",
+        "software engineering",
+    ]
+    working_on = ["level up my skills", "Yotoo Notify", "simple fastAPI project", "simple nestjs project"]
+
